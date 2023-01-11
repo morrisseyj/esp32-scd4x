@@ -1,3 +1,7 @@
+#Based on: https://github.com/adafruit/Adafruit_CircuitPython_SCD4X/blob/main/examples/scd4x_simpletest.py
+#Copyright (c) 2021 ladyada for Adafruit Industries
+#MIT License
+
 import scd4x
 import machine
 import time
