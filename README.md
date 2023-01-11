@@ -7,6 +7,7 @@ MIT License
 &&
 
 Code by Tutaka Kato: https://github.com/mikan/rpi-pico-scd4x
+-------------------------------------------------------------------
 
 Note at the time of writing the ESP-WROOM-32 was not supported for circuitpython (https://circuitpython.org/downloads). This microython code has been tested on the SCD40
 
